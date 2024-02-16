@@ -2,7 +2,7 @@ import telebot
 import json
 from telebot import types
 from random import randint
-TOKEN = "6924424683:AAEI0TQy18X6YNTMNxTcCjxCPytG5F-X_8E"
+TOKEN = ""
 bot = telebot.TeleBot(TOKEN)
 STATE_MENU = "menu"
 STATE_BISHKEK = "bishkek"
